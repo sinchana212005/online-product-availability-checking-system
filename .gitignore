@@ -1,0 +1,18 @@
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# CSV monitoring history
+availability_history.csv
+old_availability_history.csv
+
+# Environment variables and secrets
+.env
+
+# Virtual environment
+venv/
+.venv/
+
+# VS Code settings
+.vscode/
